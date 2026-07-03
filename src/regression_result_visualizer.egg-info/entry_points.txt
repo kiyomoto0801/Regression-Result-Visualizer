@@ -1,0 +1,2 @@
+[console_scripts]
+rrv = regression_result_visualizer.cli:main

@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: regression-result-visualizer
+Version: 0.1.0
+Summary: Create presentation-ready regression tables and coefficient plots.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=2.0
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: openpyxl>=3.1
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: ruff>=0.5; extra == "dev"

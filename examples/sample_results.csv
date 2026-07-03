@@ -1,0 +1,9 @@
+variable,coefficient,std_error,p_value
+L.credit,0.669,0.108,0.000
+Health,-3.881,4.219,0.360
+Remittance,-0.120,0.055,0.041
+Health x Remittance,0.085,0.032,0.009
+Income,0.421,0.180,0.027
+Inflation,-0.031,0.014,0.043
+Rule of Law,0.215,0.091,0.025
+Trade,0.018,0.009,0.052
